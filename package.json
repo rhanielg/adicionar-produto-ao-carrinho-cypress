@@ -1,0 +1,14 @@
+{
+  "name": "teste-carrinho-de-compras",
+  "version": "1.0.0",
+  "description": "Teste automacao",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Rhaniel Gonçalves",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.17.4"
+  }
+}
